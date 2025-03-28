@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Meu primeiro post",
+      "body": "Conteúdo do post 1"
+    },
+    {
+      "id": "2",
+      "title": "Aprendendo JSON Server",
+      "body": "Conteúdo do post 2"
+    },
+    {
+      "id": "818c",
+      "title": "Otoniel, the design engineer",
+      "body": "Yes yesy"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Otoniel Emanuel",
+      "email": "otoniel@example.com"
+    }
+  ]
+}
